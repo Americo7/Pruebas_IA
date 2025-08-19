@@ -1,0 +1,22 @@
+{
+  "name": "pruebas_ia",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.54.2",
+    "@types/node": "^24.3.0",
+    "auto-playwright": "^1.16.1"
+  },
+  "dependencies": {
+    "axios": "^1.11.0",
+    "dotenv": "^17.2.1"
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "description": ""
+}
